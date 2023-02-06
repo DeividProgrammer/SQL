@@ -1,6 +1,6 @@
 # Delivery App DataBase
 ## Introduction
-The main problem that we want to solve with this proyect is creating a database for a delivery app which has 4 types of users: clients, delivery person, owner and supplier. All the tables are the class diagram stored in the folder "Annex". It is develop using SQL in MariaDB.
+The main problem that we want to solve with this proyect is creating a database for a delivery app which has 4 types of users: clients, delivery person, owner and supplier. All the tables are the [class diagram](/Annex/ClassDiagram.png) stored in the folder "Annex". It is develop using SQL in MariaDB.
 ## Structure
 The proyect is made out of 4 files.
 1. Generate tables: to create the tables with their respectives restrictions.
@@ -24,8 +24,6 @@ Using data definition languages (DDL) for creating the tables and data manipulat
 3. **_mostExpensiveDelivery_**: returns the most expensive delivery.
 4. **_bestDeliveryPeliveryPersonCurrentlyWorking_**: returns the delivery person with the best reviews that is currently working.
 
-## Annex
-![foto](https://drive.google.com/file/d/1fy8WmFyjSpSY4UGqYIi1aYXykV8wFzp3/view?usp=sharing)
 
 
 
