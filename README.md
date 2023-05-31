@@ -1,6 +1,7 @@
 # Delivery App DataBase
 ## Introduction
-The main problem that we want to solve with this proyect is creating a database for a delivery app which has 4 types of users: clients, delivery person, owner and supplier. All the tables are the [class diagram](/Annex/ClassDiagram.png) stored in the folder "Annex". It is develop using SQL in MariaDB.
+University project developed in the course Introduction to Software Engineering I.
+The main problem that we want to solve with this proyect is creating a database for a delivery app which has 4 types of users: clients, delivery person, owner and supplier. We have created a [class diagram](/Annex/ClassDiagram.png) stored in the folder "Annex". It is develop using SQL in MariaDB.
 ## Structure
 The proyect is made out of 4 files.
 1. Generate tables: to create the tables with their respectives restrictions.
